@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+
+
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+    border-color: 5px red;
+    border: 5px solid red;
+}
+
+*{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
