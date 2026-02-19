@@ -1,0 +1,11 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
+}
+
+.profile-image{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
