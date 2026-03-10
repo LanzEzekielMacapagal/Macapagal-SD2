@@ -36,3 +36,18 @@ html {
   width: 24px;
   height: 24px;
 }
+
+.tool-card {
+  transition: transform 0.25s ease;
+}
+
+.tool-card:hover {
+  transform: translateY(-4px);
+}
+
+.tool-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
